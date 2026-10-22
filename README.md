@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Shahad Almuaili
 
-<!--
-**shahadf11/shahadf11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about **Software Engineering and Data Analysis**, with a background in Computer Science from Qassim University.
 
-Here are some ideas to get you started:
+I enjoy solving problems, building practical software solutions, and exploring how data can support better decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+- Software Engineering
+- Data Analysis
+- Database Systems
+- Software Development
+
+## Currently
+- Enhancing my technical and analytical skills.
+- Building practical experience through projects.
+- Exploring new technologies and development practices.
